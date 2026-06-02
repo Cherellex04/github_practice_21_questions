@@ -18,9 +18,9 @@ Write your yes/no question on each line, then check the host's answer.
  1. A: [x] Yes  [ ] No   Q: does it have 4 legs ?
  2. A: [ ] Yes  [ ] No   Q: what is your favorite pet ?
  3. A: [x] Yes  [ ] No   Q: do you live with him/her now ?
- 4. A: [ ] Yes  [ ] No   Q: does living with animal helpful ?
- 5. A: [ ] Yes  [ ] No   Q: does your animal small?
- 6. A: [ ] Yes  [ ] No   Q: do you like horses ?
+ 4. A: [x] Yes  [ ] No   Q: does living with animal helpful ?
+ 5. A: [x] Yes  [ ] No   Q: does your animal small?
+ 6. A: [x] Yes  [ ] No   Q: do you like horses ?
  7. A: [ ] Yes  [ ] No   Q: 
  8. A: [ ] Yes  [ ] No   Q: 
  9. A: [ ] Yes  [ ] No   Q: 
