@@ -2,12 +2,12 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions): ____________________
-HOST   (the one with the secret):  ____________________
-DATE:                              ____________________
+PLAYER (the one asking questions): __________Diatou__________
+HOST   (the one with the secret):  Cherelle
+DATE:                              ________06/02/2026____________
 
 
-SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
+SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [x] Animal
 
 
 ------------------------------------------
